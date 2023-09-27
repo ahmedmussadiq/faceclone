@@ -1,0 +1,38 @@
+@media only screen and (max-width: 500px) {
+    .home1,
+    .home2 {
+      width: 86%;
+      padding-top: 13%;
+      padding-left: 5%;
+      margin: 0% 6% 0% 6%;
+    }
+    .home1{
+        padding-left: 0 !important;
+    }
+    .home{
+        padding-top: 5%;
+    }
+  .home1 h1 {
+font-size: 50px;
+text-align: center;
+  }
+  .home1 h2 {
+    font-size: 18px;
+    text-align: center;
+      }
+    .login-container {
+      width: 80%;
+    }
+  
+    .create button {
+      width: 80%;
+      font-size: 12px;
+    }
+    .form-group button {
+     
+        font-size: 16px;
+    }
+    p{
+        font-size: 12px;
+    }
+  }
